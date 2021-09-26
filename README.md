@@ -1,7 +1,7 @@
 # Matrix Operations
 
 <!-- ![Matrix](/documentation/img/logo.png) -->
-<p align="center"><img src="/documentation/img/logo.png" alt="Matrix Operation" width=300 height=300/></p>
+<p align="center"><img src="/documentation/img/logo.png" alt="Matrix Operation" width=320 height=300/></p>
 <br>
 
 ## Matrix
