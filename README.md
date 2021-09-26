@@ -1,6 +1,6 @@
 # Matrix Operations
 
-![Matrix](/documentation/matrix.gif)
+![Matrix](/documentation/img/logo.png)
 <br>
 
 ## Matrix
