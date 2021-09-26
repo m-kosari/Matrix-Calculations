@@ -18,6 +18,6 @@
  * [.]Find The Largest Number
  * [.]Find The Smallest Number
  * ![Minister](/documentation/img/minister.png)[->]Show The Movement Of The Minister Nut
- * ![horse](/documentation/img/horse.png)[->]Show The Movement Of The Minister Nut
+ * ![horse](/documentation/img/horse.png | width=100)[->]Show The Movement Of The Minister Nut
 
 
