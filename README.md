@@ -19,6 +19,6 @@
  * [.]Find The Smallest Number
  * ![Minister](/documentation/img/minister.png)[->]Show The Movement Of The Minister Nut
 <!--  * ![horse](/documentation/img/horse.png | width=100)[->]Show The Movement Of The Minister Nut -->
- * ![horse]<img src"/documentation/img/horse.png" width=100 height=100/>[->]Show The Movement Of The Minister Nut
+ * ![horse]<img src="/documentation/img/horse.png" width=100 height=100/>[->]Show The Movement Of The Minister Nut
 
 
