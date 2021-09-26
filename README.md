@@ -5,7 +5,7 @@
 <br>
 
 ## Matrix
- Matrixes (sometimes called 2D ) are containers for many values. For example, chess board is a 2D matrix of 8 rows and 8 columns, each holding a different character . Matrixes have all the same properties as Arrays and are indexed in the same manner, just using multiple "indexes", one for each row, column
+ Matrixes (sometimes called 2D Array) are containers for many values. For example, chess board is a 2D matrix of 8 rows and 8 columns, each holding a different character . Matrixes have all the same properties as Arrays and are indexed in the same manner, just using multiple "indexes", one for each row, column
         This Project Include a Basic of Operation in 2D Mtrix
 
 ## Operations:
