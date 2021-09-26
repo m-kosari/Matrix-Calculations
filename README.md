@@ -20,5 +20,7 @@
  * ![Minister](/documentation/img/minister.png)[->]Show The Movement Of The Minister Nut
 <!--  * ![horse](/documentation/img/horse.png | width=100)[->]Show The Movement Of The Minister Nut -->
  * ![horse]<img src="/documentation/img/horse.png" width=30 height=30/>[->]Show The Movement Of The Minister Nut
+ * ![horse]<img src="/documentation/img/minister.png" width=30 height=30/>[->]Show The Movement Of The Minister Nut
+
 
 
