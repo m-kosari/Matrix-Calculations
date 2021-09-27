@@ -18,10 +18,8 @@
  * [.]Search Number in Matrix
  * [.]Find The Largest Number
  * [.]Find The Smallest Number
-<!--  * ![Minister](/documentation/img/minister.png)[->]Show The Movement Of The Minister Nut -->
-<!--  * ![horse](/documentation/img/horse.png | width=100)[->]Show The Movement Of The Minister Nut -->
- * <img src="/documentation/img/horse.png" alt="horse" width=20 height=20/>[->]Show The Movement Of The Horse Nut
- * <img src="/documentation/img/minister.png" alt="minister" width=20 height=20/>[->]Show The Movement Of The Minister Nut
+ * [.]<img src="/documentation/img/horse.png" alt="horse" width=20 height=20/>[->]Show The Movement Of The Horse Nut
+ * [.]<img src="/documentation/img/minister.png" alt="minister" width=20 height=20/>[->]Show The Movement Of The Minister Nut
 
 
 
